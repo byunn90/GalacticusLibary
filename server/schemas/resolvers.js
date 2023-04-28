@@ -8,9 +8,11 @@ const resolvers = {
     User: async (_, { id }) => {
       return User.findOne({ _id: id });
     },
-
-    bookTitle: async () => {
-      return Books.find({});
+    Mutation: {
+      login: async (_, { _id }) => {},
+      addUser: async () => {},
+      saveBook: async () => {},
+      removeBook: async () => {},
     },
   },
 };
