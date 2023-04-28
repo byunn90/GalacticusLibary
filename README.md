@@ -27,4 +27,4 @@
 
 ## Contact
 
-- [Email](mailto:kayhanturk90@live.com)
+- Kayhanturk90@Live.com
