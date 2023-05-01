@@ -1,5 +1,9 @@
 # GalacticusLibary
 
+![alt text](/path/to/image.png "Optional Title")
+![alt text](/path/to/image.png "Optional Title")
+![alt text](/path/to/image.png "Optional Title")
+
 ## Table of Contents
 
 - [Description](#description)
