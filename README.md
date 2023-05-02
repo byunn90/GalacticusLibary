@@ -1,8 +1,8 @@
 # GalacticusLibary
 
-![alt text](/path/to/image.png "Optional Title")
-![alt text](/path/to/image.png "Optional Title")
-![alt text](/path/to/image.png "Optional Title")
+![alt text](./client/public/images/frontpage.jpg)
+![alt text](./client/public/images/mybooksearch.jpg)
+![alt text](./client/public/images/mybooksearch.jpg)
 
 ## Table of Contents
 
