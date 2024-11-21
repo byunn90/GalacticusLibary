@@ -46,7 +46,7 @@ To install the application locally, follow these steps:
 
 ## Link
 
-- https://booksearchengine443.herokuapp.com/
+- https://galacticuslibary-f8e402efe1c3.herokuapp.com/
 
 ## Contact
 
